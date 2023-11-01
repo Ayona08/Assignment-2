@@ -1,0 +1,15 @@
+table,th,td{
+    border: 1px solid rgb(14, 13, 13);
+}
+table{
+    border-collapse: collapse; width: 80%;
+}
+.a{
+    background-color: rgb(127, 197, 148);
+}
+.b{
+    background-color: rgb(70, 158, 96);
+}
+.c{
+    background-color: rgb(15, 143, 68);
+}

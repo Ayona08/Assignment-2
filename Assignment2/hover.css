@@ -1,0 +1,15 @@
+
+*{
+    color: rgb(121, 138, 153);
+}.a{
+    background-image: url(/photo);
+}
+.a:hover{
+    background-image: url(/website/photo);
+}
+.r:hover{
+    color: rgb(243, 239, 13);
+}
+img{
+    width:500px; height: 250px; border: solid rgb(192, 125, 1);
+}

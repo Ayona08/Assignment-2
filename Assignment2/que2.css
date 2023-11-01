@@ -1,0 +1,17 @@
+.t{
+    display: inline-block;
+    margin: 5%;
+}
+
+.r{
+    display: inline-block;
+}
+.s{
+    display: inline-block;
+    margin: 5%;
+}
+.w{
+    position: sticky;
+    text-align: left;
+    height: 90%;
+}
